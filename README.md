@@ -53,4 +53,3 @@ Add your screenshots:
 
 ## 👨‍💻 Author
 Yashwanth G S
-⭐ Updated project documentation
