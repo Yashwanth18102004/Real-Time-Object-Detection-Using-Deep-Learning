@@ -1,3 +1,4 @@
 ultralytics
+YOLO [You Only look once]
 opencv-python
 numpy
